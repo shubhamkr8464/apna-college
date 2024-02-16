@@ -1,4 +1,4 @@
 # apna-college
 This is my repo
 <br>
-Author - Shubham Kumar
+Author - Shubham Kumar (Vellore)
